@@ -84,7 +84,7 @@ namespace Language_da {
   LSTR MSG_MOVE_50MM                      = _UxGT("Flyt 50mm");
   LSTR MSG_MOVE_100MM                     = _UxGT("Flyt 100mm");
   LSTR MSG_SPEED                          = _UxGT("Hastighed");
-  LSTR MSG_MESH_Z_OFFSET                  = _UxGT("Plade Z");
+  LSTR MSG_BED_Z                          = _UxGT("Plade Z");
   LSTR MSG_NOZZLE                         = _UxGT("Dyse");
   LSTR MSG_NOZZLE_N                       = _UxGT("Dyse ~");
 
@@ -98,6 +98,7 @@ namespace Language_da {
   LSTR MSG_AUTOTEMP                       = _UxGT("Autotemp");
   LSTR MSG_LCD_ON                         = _UxGT("Til");
   LSTR MSG_LCD_OFF                        = _UxGT("Fra");
+  LSTR MSG_SELECT                         = _UxGT("Vælg");
   LSTR MSG_SELECT_E                       = _UxGT("Vælg *");
   LSTR MSG_A_RETRACT                      = _UxGT("A-retract");
   LSTR MSG_A_TRAVEL                       = _UxGT("A-rejse");

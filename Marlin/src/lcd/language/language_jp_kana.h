@@ -102,7 +102,7 @@ namespace Language_jp_kana {
   LSTR MSG_MOVE_50MM                      = _UxGT(" 50mm イドウ");                 // "Move 50mm"
   LSTR MSG_MOVE_100MM                     = _UxGT(" 100mm イドウ");                 // "Move 100mm"
   LSTR MSG_SPEED                          = _UxGT("ソクド");                       // "Speed"
-  LSTR MSG_MESH_Z_OFFSET                  = _UxGT("Zオフセット");                   // "Bed Z"
+  LSTR MSG_BED_Z                          = _UxGT("Zオフセット");                   // "Bed Z"
   LSTR MSG_NOZZLE                         = _UxGT("ノズル");                       // "Nozzle"
   LSTR MSG_BED                            = _UxGT("ベッド");                       // "Bed"
   LSTR MSG_FAN_SPEED                      = _UxGT("ファンソクド");                    // "Fan speed"
@@ -114,6 +114,7 @@ namespace Language_jp_kana {
   LSTR MSG_AUTOTEMP                       = _UxGT("ジドウオンドセイギョ");               // "Autotemp"
   LSTR MSG_LCD_ON                         = _UxGT("オン");                         // "On"
   LSTR MSG_LCD_OFF                        = _UxGT("オフ");                         // "Off"
+  LSTR MSG_SELECT                         = _UxGT("センタク");                     // "Select"
   LSTR MSG_SELECT_E                       = _UxGT("センタク *");
   LSTR MSG_ACC                            = _UxGT("カソクド mm/s") SUPERSCRIPT_TWO;               // "Accel"
   LSTR MSG_JERK                           = _UxGT("ヤクドウ mm/s");                  // "Jerk"
